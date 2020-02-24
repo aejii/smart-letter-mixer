@@ -3,18 +3,18 @@ mix letter in word, but magic happens and you can still understand
 big mysterious brain
 
 
--- How it's work :
+- How it's work :
 
--node .\melangeLettre.js hello my friend
+node .\melangeLettre.js hello my friend
 
--hlelo my firned
+->hlelo my firned
 
 or
 
--node .\melangeLettre.js
+node .\melangeLettre.js
 
--Entrez votre phrase a mélanger ? 
+->Entrez votre phrase a mélanger ? 
 
--your input :hello my friend
+hello my friend
 
--hlleo my fneird
+->hlleo my fneird
